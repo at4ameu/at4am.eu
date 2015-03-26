@@ -14,4 +14,4 @@ You have the power to change the law!
 
 ---
 
-[![AT4AM.eu](https://at4am.eu/resource/image/logo/at4ameu-16x16.jpg)](https://at4am.eu/) [AT4AM.eu](https://at4am.eu/) &copy; 2013, 2014, 2015 [Föreningen för digitala fri- och rättigheter (DFRI)](https://dfri.se/). Released under the [AGPL-3.0 License](https://www.gnu.org/licenses/agpl-3.0.html).
+[![AT4AM.eu](https://at4am.eu/resource/image/logo/at4ameu-16x16.jpg)](https://at4am.eu/) [AT4AM.eu](https://at4am.eu/) &copy; 2013, 2014, 2015 [Föreningen för digitala fri- och rättigheter (DFRI)](https://dfri.se/). The AT4AM.eu website is released under the [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) license. Related resources and projects may have other licences.
