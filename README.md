@@ -1,6 +1,8 @@
-# [AT4AM.eu](https://at4am.eu/)
+# [![AT4AM.eu](https://at4am.eu/resource/image/logo/at4ameu-32x32.jpg)](https://at4am.eu/) [AT4AM.eu](https://at4am.eu/)
 
-You have the power to change the law!
+**You have the power to change the law!**
+
+This is the source code for [AT4AM.eu](https://at4am.eu/). Patches are welcome!
 
 [AT4AM.eu](https://at4am.eu/) is a [DFRI](https://www.dfri.se/) [project](https://www.dfri.se/projekt/at4am/).
 
